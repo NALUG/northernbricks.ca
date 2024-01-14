@@ -41,6 +41,7 @@ jobs:
           cache-version: 1 # Increment this number if you need to re-download cached gems
       - run: gem install rake
       - run: bundle install
+      - run: mkdir -p ./_cache/flickr
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
