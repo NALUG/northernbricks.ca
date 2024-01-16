@@ -58,6 +58,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+markdown_ext: "markdown,md"
+
 # info about these is here https://github.com/j0k3r/jekyll-flickr-photoset
 flickr:
   cache_dir: './_cache/flickr'
