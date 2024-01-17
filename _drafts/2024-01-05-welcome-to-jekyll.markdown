@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2024-01-05 14:23:14 -0700
 categories: jekyll update
+hidden: true
 ---
 <!-- foundation-float.min.css: Compressed CSS with legacy Float Grid -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/foundation-sites@6.8.1/dist/css/foundation-float.min.css" crossorigin="anonymous">
