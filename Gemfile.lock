@@ -37,6 +37,7 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-flickr (0.2.1)
       flickr (~> 2.0)
+    jekyll-paginate (1.1.0)
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
     jekyll-seo-tag (2.8.0)
@@ -104,6 +105,7 @@ DEPENDENCIES
   jekyll (~> 4.3.3)
   jekyll-feed (~> 0.12)
   jekyll-flickr
+  jekyll-paginate
   jekyll-theme-clean-blog
   minima (~> 2.5)
   tzinfo (>= 1, < 3)
