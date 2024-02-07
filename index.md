@@ -3,5 +3,5 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-background: '/assets/logo.png'
+background: '/assets/Inclusive_Photo_January_2024.jpg'
 ---
