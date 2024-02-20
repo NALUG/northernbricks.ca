@@ -5,4 +5,4 @@ permalink: /schedule/
 background: '/assets/minifigs.png'
 ---
 
-The schedule of events for the public can go here.
+The schedule of public events will be posted soon.
