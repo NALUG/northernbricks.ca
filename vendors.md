@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contact Us
-permalink: /contact/
+title: Vendors
+permalink: /vendors/
 background: '/assets/minifigs.png'
 ---
   <script src="https://www.google.com/recaptcha/api.js?render=6Lfb8VMpAAAAAJQMQOlUkwdW7X2hjE5GHnQHDu7O"></script>
@@ -24,36 +24,44 @@ background: '/assets/minifigs.png'
     }    
 </style>
 
-## Let’s Chat!
-
-We’d love to connect with you. Please fill out this form with your questions, comments or concerns. Thanks!
+Our list of vendors will be available soon.
 
 
+## WANT TO BE A VENDOR?
+
+2’ by 6’ vendor tables, at $50.00 for June 6-9, 2024, are available. Please fill out this form to reserve your table.
+<i>Thanks!</i>
 <!-- modify this form HTML and place wherever you want your form -->
 <form
-  action="https://formspree.io/f/xkndgyzp"
+  action="https://formspree.io/f/mpzvdnjg"
   method="POST"
 >
-    <input type="hidden" id="g-recaptcha-response" name="g-recaptcha-response">
+
+
+
+<input type="hidden" id="g-recaptcha-response" name="g-recaptcha-response">
+
 
 <div class="form-row">
     <div class="col">
         <input type="text" class="form-control" name="Name" placeholder="Name">
     </div>
+</div>
+
+<div class="form-row">
+    <div class="col">
+        <input type="text" class="form-control" name="Business Name" placeholder="Business Name">
+    </div>
+</div>
+
+<div class="form-row">
     <div class="col">
         <input type="text" class="form-control" name="Email" placeholder="Email">
     </div>
 </div>
-
 <div class="form-row">
     <div class="col">
-        <input type="text" class="form-control" name="Subject" placeholder="Subject">
-    </div>
-</div>
-
-<div class="form-row">
-    <div class="col">
-        <textarea class="form-control" name="Message" placeholder="Message" rows="4"></textarea>
+        <textarea class="form-control" name="Message" placeholder="What Products, Services your Business Provides" rows="4"></textarea>
     </div>
 </div>
 <div class="form-row">
@@ -61,4 +69,6 @@ We’d love to connect with you. Please fill out this form with your questions, 
         <button class="btn btn-primary" type="submit">Send</button>
     </div>
  </div>
+
+
 </form>
