@@ -13,7 +13,7 @@ Edmonton’s #1 LEGO Fan Event!
 
 <br/>
 JUNE 8 – 9, 2024<br/>
-<a class="btn btn-primary" href="https://eventbrite.com">BUY TICKETS</a>&nbsp;<a  class="btn btn-primary" href='https://afol.northernbricks.ca'>AFOL (4 DAY PASSES)</a>
+<a class="btn btn-primary" href="https://eventbrite.com">BUY TICKETS</a>&nbsp;<a  class="btn btn-primary" href='https://afol.northernbricks.ca'>AFOL (3 DAY PASSES)</a>
 <br>
 <br>
 <span class="fa-stack fa-lg">
@@ -21,8 +21,8 @@ JUNE 8 – 9, 2024<br/>
     <i class="fas fa-calendar-alt fa-stack-1x fa-inverse"></i>
 </span>
 <br>
-Saturday, June 8 th 10pm – 6pm MDT<br>
-Sunday, June 9 th 10am – 3pm MDT
+Saturday, June 8th 10am – 6pm MDT<br>
+Sunday, June 9th 10am – 3pm MDT
 
 <br>
 <br>
