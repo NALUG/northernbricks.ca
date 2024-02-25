@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-background: '/assets/logo_wide.png'
+background: '/assets/logo-700.png'
 ---
 <div class="text-center">
 Welcome to the 1st Annual

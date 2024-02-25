@@ -11,7 +11,7 @@ NALUG has brought the love of LEGO<sup>®</sup> to Edmonton and area since our f
 
 <b>NORTHERN BRICKS</b> held smaller shows in 2015 and 2016.
 
-This year, 2024, we decided to go <b>BIG!</b> We’ve invited LEGO® Masters, this person, to share the LEGO<sup>®</sup> joy with everyone.
+This year, 2024, we decided to go <b>BIG!</b> We’ve invited LEGO® Masters to share the LEGO<sup>®</sup> joy with everyone.
 
 A couple of hundred <i>fantabulous</i> MOCs (My Own Creations) will be on display.
 

@@ -5,8 +5,8 @@ permalink: /tickets/
 background: '/assets/minifigs.png'
 ---
 
-Come see our fabulous public display &amp; vendors June 8 – 9,
-2024 at the family friendly Glengarry Hall.
+Feast your eyes on our fabulous LEGO<sup>®</sup> display at the family
+friendly Glengarry Hall. Unique LEGO<sup>®</sup> vendors will be on hand!
 
 All ages are welcome!<br/>
 Wheelchair accessible.<br/>
@@ -14,12 +14,13 @@ No strollers or wagons.
 
 ### ADMISSION
 
-Adults – $10.00<br>
-Seniors &amp; Children 4-16 – $5.00<br>
-Children 3 &amp; Under – Free
+<b>Adults</b> – $10.00<br>
+<b>Seniors &amp; Children 4-16</b> – $5.00<br>
+<b>Children 3 &amp; Under</b> – Free<br>
+<b>Family</b> – $20.00
 
 
 ### DATES
 
-Saturday, June 8 th 10pm – 6pm MDT<br>
-Sunday, June 9 th 10am – 3pm MDT
+<b>Saturday, June 8th</b> 10pm – 6pm MDT<br>
+<b>Sunday, June 9th</b> 10am – 3pm MDT

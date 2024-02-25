@@ -29,7 +29,7 @@ Our list of vendors will be available soon.
 
 ## WANT TO BE A VENDOR?
 
-2’ by 6’ vendor tables, at $50.00 for June 6-9, 2024, are available. Please fill out this form to reserve your table.
+2’ by 6’ vendor tables, at $40.00 for June 7-9, 2024, are available. Please fill out this form to reserve your table.
 <i>Thanks!</i>
 <!-- modify this form HTML and place wherever you want your form -->
 <form
@@ -44,7 +44,7 @@ Our list of vendors will be available soon.
 
 <div class="form-row">
     <div class="col">
-        <input type="text" class="form-control" name="Name" placeholder="Name">
+        <input type="text" class="form-control" name="Name" placeholder="Your Full Name">
     </div>
 </div>
 
