@@ -22,5 +22,5 @@ No strollers or wagons.
 
 ### DATES
 
-<b>Saturday, June 8th</b> 10pm – 6pm MDT<br>
+<b>Saturday, June 8th</b> 10am – 6pm MDT<br>
 <b>Sunday, June 9th</b> 10am – 3pm MDT
