@@ -2,7 +2,7 @@
 layout: page
 title: Tickets
 permalink: /tickets/
-background: '/assets/minifigs.png'
+background: '/assets/Inclusive_Photo_January_2024.jpg'
 ---
 
 Feast your eyes on our fabulous LEGO<sup>®</sup> display at the family

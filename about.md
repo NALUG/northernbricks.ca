@@ -2,7 +2,7 @@
 layout: page
 title: About Us
 permalink: /about/
-background: '/assets/minifigs.png'
+background: '/assets/Inclusive_Photo_January_2024.jpg'
 ---
 
 <b>NORTHERN BRICKS</b> is brought to you by <a href='http://nalug.ca'>NALUG – Northern Alberta LEGO® Users Group</a>.

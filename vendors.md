@@ -2,7 +2,7 @@
 layout: page
 title: Vendors
 permalink: /vendors/
-background: '/assets/minifigs.png'
+background: '/assets/Inclusive_Photo_January_2024.jpg'
 ---
   <script src="https://www.google.com/recaptcha/api.js?render=6Lfb8VMpAAAAAJQMQOlUkwdW7X2hjE5GHnQHDu7O"></script>
   <script>
