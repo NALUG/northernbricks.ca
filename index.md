@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-background: '/assets/logo-700.png'
+#background: '/assets/logo-700.png'
 ---
 <div class="text-center">
 Welcome to the 1st Annual
@@ -13,7 +13,7 @@ Edmonton’s #1 LEGO Fan Event!
 
 <br/>
 JUNE 8 – 9, 2024<br/>
-<a class="btn btn-primary" href="{{"/tickets" | relative_url}}">TICKETS</a>&nbsp;<a  class="btn btn-primary" href='https://afol.northernbricks.ca'>AFOL (3 DAY PASSES)</a>
+<a class="btn btn-primary" href="{{"/tickets" | relative_url}}">TICKETS</a>&nbsp;<a  class="btn btn-primary" href='{{"/afol" | relative_url }}'>AFOL (3 DAY PASSES)</a>
 <br>
 <br>
 <span class="fa-stack fa-lg">
