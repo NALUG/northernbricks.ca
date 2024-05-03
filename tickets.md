@@ -14,10 +14,12 @@ No strollers or wagons.
 
 ### ADMISSION
 
+<b>Family</b> – $20.00<br>
 <b>Adults</b> – $10.00<br>
-<b>Seniors &amp; Children 4-16</b> – $5.00<br>
-<b>Children 3 &amp; Under</b> – Free<br>
-<b>Family</b> – $20.00
+
+<b>Seniors 65+</b> – $5.00<br>
+<b>Children 3+</b> – $5.00<br>
+<b>Children under 3</b> – Free<br>
 
 
 ### DATES
