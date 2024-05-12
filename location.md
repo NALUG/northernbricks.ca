@@ -25,11 +25,9 @@ Fairfield Inn &amp; Suites by Marriot, Edmonton North
 Edmonton AB T5E 6W1<br>
 780-540-5100
 
-**Book your group rate for NORTHERN BRICKS LEGO Convention!**<br/>
-(Use this hyperlink:
-[https://www.marriott.com/event-reservations/reservation-
-link.mi?id=1714512612656&amp;key=GRP&amp;app=resvlink](https://www.marriott.com/event-reservations/reservation-
-link.mi?id=1714512612656&amp;key=GRP&amp;app=resvlink) )
+**[Book your group rate](https://www.marriott.com/event-reservations/reservation-
+link.mi?id=1714512612656&amp;key=GRP&amp;app=resvlink) for NORTHERN BRICKS LEGO Convention!**<br/>
+
 
 Special **NORTHERN BRICKS** group rate is $149 CAD per night for one King
 Room for June 7 through 10, 2024.
