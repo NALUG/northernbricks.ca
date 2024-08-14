@@ -6,16 +6,15 @@ layout: home
 #background: '/assets/logo-700.png'
 ---
 <div class="text-center">
-Welcome to the 1st Annual
+Welcome to the 2nd Annual
 
 <h1>NORTHERN BRICKS</h1>
 Edmonton’s #1 LEGO Fan Event!
-
+<br>
 <br/>
-JUNE 8 – 9, 2024<br/>
-<a class="btn btn-primary" href="{{"/tickets" | relative_url}}">TICKETS</a>&nbsp;<a  class="btn btn-primary" href='https://afol.northernbricks.ca/'>AFOL (3 DAY PASSES)</a>
+Website and AFOL Registration Coming Soon
 <br>
-<br>
+<!-- <br>
 <span class="fa-stack fa-lg">
     <i class="fas fa-circle fa-stack-2x"></i>
     <i class="fas fa-calendar-alt fa-stack-1x fa-inverse"></i>
@@ -46,4 +45,4 @@ Edmonton AB T5E 3K3
 Family Friendly<br>
 For LEGO Lovers of ALL Ages!<br>
 Play Brick Area!
-</div>
+</div> -->
