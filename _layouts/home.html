@@ -29,9 +29,13 @@ layout: default
 
   <div class="container">
     <div class="row">
-      <div class="col-lg-8 col-md-10 mx-auto">
+      <div class="col-lg-8 col-md-10 mx-auto text-center">
         <img
+          srcset="{{'/assets/Blue2theMoon-300.png'| relative_url  }} 300w, {{'/assets/Blue2theMoon-700.png'| relative_url  }} 700w"
+          sizes="(max-width: 700px) 300px,
+         700px"
           src="{{'/assets/Blue2theMoon-700.png'| relative_url  }}"
+          alt="Northern Bricks Logo"
           style="padding-bottom: 50px" />
         <br />
         {{ content }}
